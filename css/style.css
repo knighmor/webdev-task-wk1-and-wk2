@@ -1,0 +1,32 @@
+body {font-family: 'Courier New', Courier, monospace;
+    color: #AFAFC5;
+    background-color: #011C27;
+    font-size: 16px;
+}
+
+div {width: 900px;
+  border: 5px solid #84E296;
+  background-color: #192A51;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;}
+
+ul {width:900px;
+    border: 0px;
+    padding: 15px;
+    margin: 10px;
+    list-style-type: square;}
+
+h1 {color:#EB9FEF;
+    font-size: 36px;}
+
+p {color: #FECEE9;
+    font-size: 20px}
+
+i {color: #6FB38E;}
+
+b.list {color: #84E296;}
+
+#help {color: #dddde9;
+        font-size: 30%;
+        text-align: right}
