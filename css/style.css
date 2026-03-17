@@ -23,9 +23,9 @@ h1 {color:#EB9FEF;
 p {color: #FECEE9;
     font-size: 20px}
 
-i {color: #6FB38E;}
+em {color: #6FB38E;}
 
-b.list {color: #84E296;}
+strong.list {color: #84E296;}
 
 #help {color: #dddde9;
         font-size: 30%;
